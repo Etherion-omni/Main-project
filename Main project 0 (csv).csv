@@ -1,0 +1,18 @@
+Time of day ,Mood,Time available,Weather,Health,Number of people ,Size of gym,Good time to work out?
+Morning,Tired,1,Rainy,Fine,3,Big,No
+Night,Fine,2,Humid,Fine,5,Small,Yes
+Afternoon,Sleepy,0.3,Windy,Fine,4,Medium,Yes
+Night,Fine,0.25,Cold,Fine,2,Medium,No
+Night,Fine,1,Rainy,Sick,10,Medium,No
+Afternoon,Tired,1,Sunny,Fine,9,Medium,Yes
+Morning,Fine,0.15,Sunny,Fine,4,Medium,No
+Afternoon,Fine,2,Windy,Headache,3,Small,Yes
+Afternoon,Fine,2,Humid,Sick,6,Big,No
+Afternoon,Sleepy,1,Humid,Fine,5,Medium,Yes
+Afternoon,Tired,0.3,Rainy,Back hurts,5,Medium,No
+Morning,Tired,0.45,Humid,Fine,2,Medium,Yes
+Night,Fine,0.3,Humid,Sick,8,Medium,No
+Morning,Fine,1,Cold,Fine,5,Small,Yes
+Morning,Fine,1,Hot,Fine,1,Small,Yes
+Afternoon,Fine,0.2,Hot,Fine,2,Medium,No
+Afternoon,Tired,1,Hot,Fine,2,Medium,Yes
