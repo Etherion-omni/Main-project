@@ -16,3 +16,15 @@ Morning,Fine,1,Cold,Fine,5,Small,Yes
 Morning,Fine,1,Hot,Fine,1,Small,Yes
 Afternoon,Fine,0.2,Hot,Fine,2,Medium,No
 Afternoon,Tired,1,Hot,Fine,2,Medium,Yes
+Morning,Fine,2,Humid,Headache,4,Big,No
+Night,Tired,1,Cold,Fine,3,Small,Yes
+Night,Fine,1,Rainy,Back hurts,2,Medium,Yes
+Afternoon,Sleepy,2,Sunny,Fine,5,Big,Yes
+Morning,Fine,0.3,Humid,Fine,3,Medium,Yes
+Morning,Tired,1,Sunny,Fine,5,Small,No
+Afternoon,Tired,2,Rainy,Sick,4,Medium,No
+Night,Sleepy,0.3,Humid,Headache,3,Small,No
+Afternoon,Fine,2,Cold,Fine,5,Big,Yes
+Afternoon,Tired,1,Cold,Back hurts,3,Medium,Yes
+Morning,Sleepy,0.3,Humid,Fine,2,Small,Yes
+Afternoon,Fine,1,Hot,Fine,3,Medium,Yes
